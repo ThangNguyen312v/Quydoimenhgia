@@ -1,0 +1,14 @@
+E:\quydoitiente\bin\Debug\net8.0\quydoitiente.exe
+E:\quydoitiente\bin\Debug\net8.0\quydoitiente.deps.json
+E:\quydoitiente\bin\Debug\net8.0\quydoitiente.runtimeconfig.json
+E:\quydoitiente\bin\Debug\net8.0\quydoitiente.dll
+E:\quydoitiente\bin\Debug\net8.0\quydoitiente.pdb
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.GeneratedMSBuildEditorConfig.editorconfig
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.AssemblyInfoInputs.cache
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.AssemblyInfo.cs
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.csproj.CoreCompileInputs.cache
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.dll
+E:\quydoitiente\obj\Debug\net8.0\refint\quydoitiente.dll
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.pdb
+E:\quydoitiente\obj\Debug\net8.0\quydoitiente.genruntimeconfig.cache
+E:\quydoitiente\obj\Debug\net8.0\ref\quydoitiente.dll
